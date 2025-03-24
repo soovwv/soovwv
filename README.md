@@ -2,7 +2,7 @@
   
   
   
-1. Macbook setting  
+1. Macbook setting
 - vscode, iterm2, xcode, brew, chrome, vmware, omega, burp
 
 
