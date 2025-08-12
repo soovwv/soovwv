@@ -1,6 +1,5 @@
-### 🌱🌱🌱 Hello 🌱🌱🌱 
+### 🌱🐅🌱 Hello 🌱🐅🌱 
 <br/>
-
 
 ###### 1. Macbook setting 🌱
 > ###### vscode, iterm2, xcode, brew, chrome, vmware, omega, burp
