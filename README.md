@@ -1,7 +1,6 @@
 ### 🌱🌱🌱 Hello 🌱🌱🌱 
 <br/>
 
-<= This Profile image is SomSomtiger made by Geunsoo Son
 
 ###### 1. Macbook setting 🌱
 > ###### vscode, iterm2, xcode, brew, chrome, vmware, omega, burp
