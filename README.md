@@ -1,7 +1,7 @@
 ### 🌱🐅🌱 Hello 🌱🐅🌱 
 <br/>
 
-###### intro : https://svwvs.com/ 🌱
+###### https://svwvs.com/ 🌱
 > ###### repo : vwvpr
 
 <a href="https://github.com/devxb/gitanimals">
