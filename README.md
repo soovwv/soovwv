@@ -1,8 +1,8 @@
 ### 🌱🐅🌱 Hello 🌱🐅🌱 
 <br/>
 
-###### 1. Macbook setting 🌱
-> ###### vscode, iterm2, xcode, brew, chrome, vmware, omega, burp
+###### intro : https://svwvs.com/ 🌱
+> ###### repo : vwvpr
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/soovwv"/>
