@@ -1,9 +1,8 @@
 ### 🌱🐅🌱 Hello 🌱🐅🌱 
 <br/>
 
+vwvpr
 ###### 🌱 https://svwvs.com/ 🌱
-> ###### repo : vwvpr
-
 ###### 🌱 https://rwiki.svwvs.com/ 🌱
 ###### 🌱 https://jingang.svwvs.com/ 🌱
 <br /><br />
