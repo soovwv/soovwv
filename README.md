@@ -4,6 +4,9 @@
 ###### 🌱 https://svwvs.com/ 🌱
 > ###### repo : vwvpr
 
+###### 🌱 https://rwiki.svwvs.com/ 🌱
+###### 🌱 https://jingang.svwvs.com/ 🌱
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/soovwv"/>
 </a>
