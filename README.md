@@ -3,8 +3,6 @@
 
 vwvpr
 ###### 🌱 https://svwvs.com/ 🌱
-###### 🌱 https://rwiki.svwvs.com/ 🌱
-###### 🌱 https://jingang.svwvs.com/ 🌱
 <br /><br />
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/soovwv"/>
