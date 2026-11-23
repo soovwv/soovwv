@@ -4,7 +4,7 @@ Security researcher, vulnerability research & coordinated disclosure
 (web apps, API authorization, embedded / OT)
 
 ###### 🌱 https://svwvs.com/ 🌱
-<br /><br />
+<br />
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/soovwv"/>
 </a>
