@@ -1,7 +1,7 @@
 ### 🌱🐅🌱 Hello 🌱🐅🌱 
 <br/>
-Security researcher, vulnerability research & coordinated disclosure
-(web apps, API authorization, embedded / OT)
+Security researcher; vulnerability research & coordinated disclosure
+<br/>(web apps, API authorization, embedded / OT)
 
 ###### 🌱 https://svwvs.com/ 🌱
 <br />
